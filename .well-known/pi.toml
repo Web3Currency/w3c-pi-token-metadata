@@ -1,0 +1,10 @@
+VERSION="2.7.0"
+NETWORK_PASSPHRASE="Pi Testnet"
+
+[[CURRENCIES]]
+code="W3C"
+issuer="GCIPTMBGZ2IXATBZPZTLQYT7OLUC7IJTDBKTFIUAFM4A35R6UU5BLN3W"
+display_decimals=7
+name="W3C Digital Network Test Token"
+desc="This is a test token created by W3C Digital Network on Pi Testnet."
+image="https://i.imgur.com/qPt32BI.png"
